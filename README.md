@@ -17,9 +17,9 @@
 ### 🚀 About Me
 
 - 🔭 Currently working on: **Amazon Clone Project**
-- 🌱 Learning: **Supervised Machine Learning**
+- 🌱 Learning: **ML and AI**
 - 👯 Looking to collaborate on: **Node.js, TailwindCSS**
-- 💬 Ask me about: **Web development, Node.js, ML basics**
+- 💬 Ask me about: **Web development, ML basics**
 - 📫 Reach me at: **soham.handore@gmail.com**
 - 🌐 Portfolio: [GitHub Projects](https://github.com/Sohamhandore/)
 
