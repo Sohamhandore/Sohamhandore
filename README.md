@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: **Blockchains management**
+- 🔭 Currently working on: **Blockchain management, Ai advancement**
 - 🌱 Learning: **ML and AI**
 - 👯 Looking to collaborate on: **Node.js, TailwindCSS**
 - 💬 Ask me about: **Web development, ML basics**
