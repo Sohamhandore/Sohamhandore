@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working on: **Amazon Clone Project**
+- 🔭 Currently working on: **Blockchains management**
 - 🌱 Learning: **ML and AI**
 - 👯 Looking to collaborate on: **Node.js, TailwindCSS**
 - 💬 Ask me about: **Web development, ML basics**
